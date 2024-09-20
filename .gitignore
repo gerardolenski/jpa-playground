@@ -1,0 +1,8 @@
+target/
+storage/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
