@@ -1,0 +1,1 @@
+[Presentation with performance consideration](jpa-hibernate-performance.pdf)
